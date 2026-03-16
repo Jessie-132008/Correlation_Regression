@@ -59,7 +59,7 @@ plt.show()
 ~~~
 
 # Output :
-
+ ![image](https://github.com/Jessie-132008/Correlation_Regression/blob/main/Screenshot%202026-03-16%20122505.png)
 # Result :
 The Correlation and regression for data analysis of objects from the feeder using probability distribution are calculated.
 
